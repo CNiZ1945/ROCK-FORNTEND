@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 HELP.md
 .gradle
 build/
@@ -38,3 +39,10 @@ out/
 
 # Ignore application-secret.properties
 application-secret.properties
+=======
+
+#github 업로드 항목에서 제외(외부키)
+# .env
+
+node_modules
+>>>>>>> 33c897febe84f7b07525ca9091bd70e81d2ae003
